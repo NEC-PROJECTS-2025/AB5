@@ -1,0 +1,8 @@
+Flask
+pandas
+pyarrow
+requests
+scikit-learn
+surprise
+aiohttp
+asyncio
